@@ -36,7 +36,7 @@ img {
     color: white;
     text-align: center;
     padding: 10px;
-    font-size: 1rem; /* Adjust as needed based on your design */
+    font-size: 1rem; 
 }
 
 .center {
@@ -53,6 +53,6 @@ img {
 }
 
 .left-text, .center-text {
-    width: 30%; /* Adjust as needed based on your design */
+    width: 30%;
 }
 
